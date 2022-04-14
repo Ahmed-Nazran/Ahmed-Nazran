@@ -21,7 +21,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Nazran&show_icons=true&hide_border=true&theme=tokyonight)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Nazran&theme=tokyonight)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Nazran&theme=prussian)  
  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahmed-Nazran&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true) 
