@@ -3,7 +3,7 @@
 - I am a student of class 8
 - Email- ahmednazran09@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Nazran&label=Profile%20views&color=00FFFF&style=flat" alt="programmer-saidur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Nazran&label=Profile%20views&color=00008b&style=flat" alt="programmer-saidur" /> </p>
 
 ## Connect with me:
 
