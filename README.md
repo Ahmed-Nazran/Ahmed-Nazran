@@ -1,10 +1,11 @@
 # Hi! I am Nazran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- I am a student of class 8
- Email- ahmednazran09@gmail.com
+ 
+-I am a student of class 8
+-Email- ahmednazran09@gmail.com
 
 ## Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahmed-Nazran)  
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Nazran)
 
 ## Languages and tools:
 
