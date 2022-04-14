@@ -1,9 +1,8 @@
 # Hi! I am Nazran!
  I am a student of class 8
- I am currently learning 
  Email- ahmednazran09@gmail.com
 
-*onnect with me:*
+##Connect with me:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahmed-Nazran)  
 
 ## Languages and tools:
