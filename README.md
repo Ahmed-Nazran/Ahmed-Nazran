@@ -3,6 +3,8 @@
 -I am a student of class 8
 -Email- ahmednazran09@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Nazran&label=Profile%20views&color=E4405F&style=flat" alt="programmer-saidur" /> </p>
+
 ## Connect with me:
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Nazran)
