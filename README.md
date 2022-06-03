@@ -1,4 +1,4 @@
-# Hi! I am Nazran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi! I am Nazran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
 - I'm currently learning php
 - Email- ahmednazran09@gmail.com
