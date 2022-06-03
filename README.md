@@ -1,6 +1,5 @@
 # Hi! I am Nazran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- 
-- I am a student of class 8
+
 - I'm currently learning php
 - Email- ahmednazran09@gmail.com
 
