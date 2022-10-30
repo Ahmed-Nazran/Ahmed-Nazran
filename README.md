@@ -1,9 +1,8 @@
 # Hi! I am Nazran!
 
 - I'm currently learning php
-- Email- ahmednazran09@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Nazran&label=Profile%20views&color=00008b&style=flat" alt="programmer-saidur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Nazran&label=Profile%20views&color=00008b&style=flat" alt="Ahmed-Nazran" /> </p>
 
 ## Connect with me:
 
