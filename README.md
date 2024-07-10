@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nazran</h1>
-## 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MongoDB**
 
-## 📫 How to reach me **ahmednazran09@gmail.com**
+- 📫 How to reach me **ahmednazran09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
